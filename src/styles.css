@@ -99,7 +99,9 @@ button:hover {
     .gallery-grid {
         grid-template-columns: repeat(4, 1fr); /* Máximo 3 columnas */
     }
+    
 }
+
 
 .gallery-grid div {
     background-color: #fff;
